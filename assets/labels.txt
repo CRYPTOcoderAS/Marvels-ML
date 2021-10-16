@@ -1,0 +1,8 @@
+0 Black Widow
+1 Captain America
+2 Doctor Strange
+3 Hulk
+4 Iron Man
+5 Loki
+6 Spiderman
+7 Thanos
