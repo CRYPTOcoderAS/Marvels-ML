@@ -22,7 +22,7 @@
 
 <p align="center">
   <img src="./assets/1.png" width=400 alt="accessibility text">
-  <img src="./assets/2.PNG" width=400 title="hover text">
+  <img src="./assets/2.png" width=400 title="hover text">
   <img src="./assets/3.png" width=400 alt="accessibility text">
   <img src="./assets/4.png" width=400 alt="accessibility text">
  
