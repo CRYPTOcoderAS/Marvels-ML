@@ -16,7 +16,7 @@
   </a>
   </p>
 
-  > An android application which takes the image and identify the “superhero” from each image from a list of 8 possible superheroes.
+  An android application which takes the image and identify the “superhero” from each image from a list of 8 possible superheroes.
 
   ## APP PREVIEW
 
